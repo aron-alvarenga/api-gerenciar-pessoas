@@ -10,6 +10,16 @@ Usando Spring boot, crie uma API simples para gerenciar Pessoas. Esta API deve p
 - Listar endereços da pessoa
 - Poder informar qual endereço é o principal da pessoa
 
+## Qualidade de código
+
+1. Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software?
+
+	Para a implementação de uma nova funcionalidade, garantindo a qualidade de software, é necessário seguir os métodos da Engenharia de Software. Tais como, a definição do ciclo de vida de desenvolvimento, análise de requisitos (Funcionais e não funcionais), levantamento dos casos de uso e requisitos de teste. A partir destas análises é possível ter uma visão mais nítida do que (e como) deverá ser implementado e como poderá ser testado.
+
+2. Em qual etapa da implementação você considera a qualidade de software?
+
+	Considero a qualidade de software importante em todas as etapas da implementação. Tanto para garantir a possibilidade de teste e manutenção do código, quanto para garantir uma boa experiência ao usuário final.
+
 ## Ferramentas e Tecnologias
 
 - IntelliJ - IDE;
